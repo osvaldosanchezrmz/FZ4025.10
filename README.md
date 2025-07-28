@@ -18,5 +18,5 @@ You can directly link to the raw files in this repository from your Google Colab
 ```python
 import pandas as pd
 
-url = 'https://raw.githubusercontent.com/your-username/your-repo-name/main/your-file.csv'
+url = 'https://raw.githubusercontent.com/osvaldosanchezrmz/FZ4025.10/main/FILENAME.csv'
 df = pd.read_csv(url)
